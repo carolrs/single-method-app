@@ -1,6 +1,3 @@
-# Reading time Method Design Recipe
-
-Copy this into a `recipe.md` in your project and fill it out.
 
 ## 1. Describe the Problem
 
